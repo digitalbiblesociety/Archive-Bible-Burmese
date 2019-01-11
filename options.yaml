@@ -1,0 +1,49 @@
+entry:
+  - 
+   key: translationId
+   value: MYABJB
+  - 
+   key: versificationScheme
+   value: default
+  - 
+   key: script
+   value: Mymr
+  - 
+   key: shortTitle
+   value: "သမ္မာကျမ်း၊၊"
+  - 
+   key: vernacularTitle
+   value: "ထာဝရဘုရား၏ - သမ္မာကျမ်း၊၊"
+  - 
+   key: EnglishDescription
+   value: "1835 Judson Burmese Bible"
+  - 
+   key: numberSystem
+   value: Burmese
+  - 
+   key: languageId
+   value: MYA
+  - 
+   key: languageNameInEnglish
+   value: "Burmese"
+  - 
+   key: languageName
+   value: "ကနေဒါ ပြင်သစ်"
+  - 
+   key: copyrightOwner
+   value: "Public Domain"
+  - 
+   key: homeDomain
+   value: "burmese.dbs.org"
+  - 
+   key: copyrightYears
+   value: 1835
+  -
+   key: publicDomain
+   value: True
+  -
+   key: contentCreator
+   value: "Adoniram Judson"
+  - 
+   key: countryCode
+   value: MM
